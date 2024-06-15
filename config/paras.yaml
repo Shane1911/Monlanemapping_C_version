@@ -1,0 +1,21 @@
+raw_data_path: ../data/raw_data/raw_data_1.json
+laneinfo_para: 0.5e-3
+save_path: ../data/lane.csv
+traj_path: ../data/traj.csv
+ctrl_points_path: ../data/ctrlpts.txt
+lane_points_path: ../data/lanepts.txt
+lane_gap: 1.0
+# x,y,heading,speed,omega
+motion_id: 1
+init_state: [3.6, 1.2, -3, -10.0, -0.3]
+downsample: 0.5
+save_pred_result: false
+range_area: [3, 50, -10, 10]
+ctrl_points_chord: 3.0
+associate:
+    # yaw_thd, trans_thd, xyz_thd
+    knn_std: [0.1, 0.2, 0.5]
+    min_match_ratio: 0.5
+    use_consistency: true
+# the noise in optimization
+noise: [0.1, 1.0]

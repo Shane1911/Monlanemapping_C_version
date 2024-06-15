@@ -1,0 +1,2160 @@
+Log file created at: 2024/05/25 13:22:41
+Running on machine: f9e968de848c
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20240525 13:22:41.220126   861 sim_model.cc:13] test begaining!!!
+I20240525 13:22:53.100499   861 file_flow.cc:36] Complish the data load!!!
+I20240525 13:22:53.133857   861 simulater.cc:65] =========================== Frame index: 1
+I20240525 13:22:53.133880   861 simulater.cc:104] lanes_from_map_.size: 0
+I20240525 13:22:53.134086   861 simulater.cc:107] cur_frame_lanes_.size: 2
+I20240525 13:22:53.134089   861 simulater.cc:110] lanes in map is empty
+I20240525 13:22:53.134093   861 simulater.cc:75] match res: 0 , 0
+I20240525 13:22:53.134096   861 simulater.cc:75] match res: 1 , 1
+I20240525 13:22:53.134099   861 simulater.cc:238] UpdatingMapLanes
+I20240525 13:22:53.135725   861 simulater.cc:305] AddLaneIntoMap: id-0
+I20240525 13:22:53.137557   861 simulater.cc:305] AddLaneIntoMap: id-1
+I20240525 13:22:53.137627   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.137631   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.137637   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.137640   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.137645   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.137647   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.137653   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.137655   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.137660   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.137663   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.137668   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.137671   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.137676   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.137679   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.137684   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.137686   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.137692   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.137694   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139529   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139536   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139542   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139544   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139549   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139552   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139557   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139559   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139565   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139567   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139572   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139575   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139595   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139596   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139602   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139604   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139609   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139612   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139617   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139621   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139626   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139627   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139633   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139636   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139640   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139643   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139648   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139652   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139657   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139658   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139664   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139667   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139672   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139674   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139679   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139683   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139688   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139689   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139695   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139698   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139703   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139705   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139710   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139714   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139719   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139720   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139725   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139729   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139734   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139735   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139740   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139743   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139748   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139750   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139756   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139758   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139765   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.139766   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139772   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139775   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139781   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139783   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139789   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139791   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139797   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139799   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139806   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139807   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139813   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139816   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139822   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139824   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139829   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139832   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139838   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139840   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139847   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139849   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139876   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139879   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139884   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139887   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139892   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139895   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139901   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139904   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139909   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139912   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139917   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139920   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139926   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139928   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139935   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139937   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139943   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139945   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139951   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139953   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139959   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139962   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139967   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139971   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139976   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139978   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139984   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139987   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.139992   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.139995   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140002   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140003   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140009   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140012   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140017   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140020   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140025   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140028   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140033   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140036   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140043   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140044   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140050   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140053   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140058   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140060   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140066   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140069   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140074   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140077   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140082   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140085   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140090   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140092   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140098   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140100   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140106   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140110   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140115   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140116   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140122   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140125   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140130   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140133   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140138   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140141   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140146   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140149   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140154   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140157   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140162   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140165   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140172   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140173   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140179   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140182   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140187   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140190   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140195   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140198   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140204   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140206   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140213   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140215   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140220   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140223   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140228   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140231   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140237   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140239   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140245   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140249   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140254   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140256   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140262   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140264   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140270   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140280   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140286   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140290   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140295   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140297   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140303   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140306   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140311   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140314   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140321   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140322   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140328   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140331   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140336   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140339   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140345   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140347   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140353   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140357   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140362   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140364   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140370   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140373   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140378   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140381   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140388   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140389   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140395   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140398   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140404   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140406   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140412   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140415   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140421   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140424   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140429   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140432   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140439   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140441   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140447   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140450   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140455   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140458   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140465   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140466   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140472   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140475   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140481   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140483   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140489   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140492   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140497   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.140501   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140506   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.140508   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140513   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.140516   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140522   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.140524   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140529   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.140532   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140537   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.140540   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140545   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.140547   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.140641   861 optimizer.cc:65] set the initial value successed!!!
+I20240525 13:22:53.140653   861 optimizer.cc:120] errot key index: 0-1-2-3
+I20240525 13:22:53.140727   861 optimizer.cc:76] complish the graph building
+I20240525 13:22:53.142659   861 optimizer.cc:83] result's error: 0.12273
+I20240525 13:22:53.143513   861 simulater.cc:222] ctrl_pts: 13
+I20240525 13:22:53.143517   861 simulater.cc:223] line_pts :61
+I20240525 13:22:53.143522   861 simulater.cc:222] ctrl_pts: 13
+I20240525 13:22:53.143524   861 simulater.cc:223] line_pts :61
+I20240525 13:22:53.143527   861 simulater.cc:91] map size: 2
+I20240525 13:22:53.143529   861 simulater.cc:92] End Frame index==========
+I20240525 13:22:53.143538   861 simulater.cc:65] =========================== Frame index: 2
+I20240525 13:22:53.143548   861 simulater.cc:104] lanes_from_map_.size: 2
+I20240525 13:22:53.143784   861 simulater.cc:107] cur_frame_lanes_.size: 3
+I20240525 13:22:53.144600   861 simulater.cc:75] match res: 0 , 2
+I20240525 13:22:53.144603   861 simulater.cc:75] match res: 1 , 3
+I20240525 13:22:53.144606   861 simulater.cc:75] match res: 2 , 4
+I20240525 13:22:53.144608   861 simulater.cc:238] UpdatingMapLanes
+I20240525 13:22:53.146227   861 simulater.cc:305] AddLaneIntoMap: id-2
+I20240525 13:22:53.148051   861 simulater.cc:305] AddLaneIntoMap: id-3
+I20240525 13:22:53.148814   861 simulater.cc:305] AddLaneIntoMap: id-4
+I20240525 13:22:53.148892   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.148896   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148902   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.148905   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148909   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.148912   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148917   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.148919   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148924   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.148927   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148932   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.148934   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148939   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.148942   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148947   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.148949   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148954   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.148969   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148975   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.148977   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148983   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.148985   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148990   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.148993   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.148998   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149000   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149006   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149008   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149013   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149016   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149021   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149024   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149029   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149031   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149037   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149039   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149044   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149047   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149052   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149055   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149060   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149062   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149068   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149070   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149076   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149078   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149084   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149086   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149092   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149094   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149101   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149102   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149108   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149111   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149116   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149118   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149124   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149127   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149132   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149134   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149140   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149142   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149148   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149150   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149156   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149158   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149164   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149166   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149171   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149174   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149179   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149181   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149186   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149189   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149194   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149197   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149202   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149204   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149209   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149212   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149217   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149219   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149224   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149227   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149232   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149235   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149240   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149242   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149247   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149250   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149255   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149257   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149262   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149266   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149271   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149272   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149277   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149281   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149286   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149287   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149292   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149295   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149300   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149302   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149307   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149310   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149315   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149317   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149322   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149325   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149330   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149333   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149338   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149340   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149345   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149348   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149353   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149355   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149360   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149369   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149374   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149375   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149380   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149384   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149389   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149391   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149396   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149398   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149403   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149406   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149411   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149413   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149418   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149421   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149426   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149428   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149433   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149436   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149441   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149444   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149448   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149451   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149456   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149459   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149464   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149466   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149471   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149474   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149479   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149482   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149487   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149489   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149494   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149497   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149502   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149504   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149509   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149513   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149518   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149519   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149524   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149528   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149533   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149534   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149539   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149542   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149547   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149549   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149554   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149557   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149562   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149564   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149569   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149572   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149577   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149580   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149585   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149587   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149592   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149595   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149600   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149602   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149607   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149610   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149616   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149617   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149622   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149626   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149631   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149632   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149637   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149641   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149645   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149647   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149652   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149655   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149660   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149663   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149668   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149670   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149688   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149691   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149696   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149699   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149704   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149708   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149713   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149714   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149720   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149722   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149727   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149730   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149735   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149739   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149744   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149745   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149750   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149753   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149758   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149761   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149766   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149768   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149775   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149776   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149782   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149789   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149796   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149797   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149802   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149806   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149811   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149812   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149817   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149820   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149825   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149827   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149832   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149835   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149840   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149843   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149848   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.149852   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149856   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149859   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149865   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149868   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149873   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149876   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149881   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149884   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149889   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149892   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149897   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149900   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149906   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149909   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149914   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149917   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149922   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149925   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149931   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149933   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149940   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149942   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149947   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149950   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149955   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149958   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149964   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149966   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149972   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149976   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149981   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149983   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149989   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.149991   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.149997   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150000   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150005   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150008   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150014   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150017   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150022   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150025   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150030   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150033   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150039   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150041   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150048   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150049   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150055   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150058   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150063   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150066   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150072   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150074   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150080   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150082   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150089   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150090   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150096   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150099   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150104   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150107   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150112   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150115   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150120   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150123   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150128   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150131   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150136   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150139   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150144   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150147   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150152   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150156   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150161   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150163   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150168   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150171   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150177   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150179   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150184   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150187   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150197   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150200   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150205   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150208   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150213   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150216   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150221   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150224   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150230   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150233   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150238   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150240   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150246   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150249   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150254   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150257   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150264   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150265   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150271   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150274   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150279   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150282   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150287   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150290   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150296   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150298   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150305   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150306   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150312   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150315   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150321   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150323   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150329   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150332   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150337   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150341   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150346   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150349   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150354   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150357   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150363   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150365   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150372   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150374   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150380   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150382   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150388   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150391   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150398   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150399   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150405   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150408   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150413   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150416   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150422   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150424   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150430   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150434   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150439   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150441   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150447   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150450   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150456   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150458   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150465   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150467   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150473   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150475   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150481   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150485   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150490   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150492   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150498   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150501   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150507   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150509   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150516   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150518   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150524   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150527   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150532   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150535   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150542   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150543   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150549   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150552   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150557   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150560   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150565   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150568   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150573   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150576   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150581   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150584   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150589   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150592   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150597   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150599   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150616   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150619   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150624   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150627   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150632   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150635   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150646   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150650   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150655   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150657   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150663   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150666   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150671   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150674   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150679   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150682   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150687   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150691   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150696   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.150698   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150704   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150707   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150713   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150717   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150722   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150724   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150730   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150733   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150739   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150741   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150748   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150750   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150756   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150758   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150764   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150767   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150774   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150776   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150782   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150784   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150790   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150794   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150799   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150802   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150807   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150810   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150816   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150820   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150825   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150827   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150833   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150836   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150842   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150846   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150851   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150853   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150859   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150862   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150868   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150871   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150877   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150879   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150885   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150888   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150894   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150897   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150903   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150905   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150911   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150914   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150920   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150923   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150928   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150931   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150938   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150939   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150945   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150949   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150954   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150956   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150962   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150965   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150970   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150974   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150979   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150982   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150987   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150990   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.150995   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.150998   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.151005   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.151006   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.151010   861 optimizer.cc:16] ERROR: the input nodes is empty!!!
+I20240525 13:22:53.151012   861 optimizer.cc:62] set the initial value failed!!!
+I20240525 13:22:53.151014   861 simulater.cc:88] cannot optimize!!!
+I20240525 13:22:53.152727   861 simulater.cc:222] ctrl_pts: 6
+I20240525 13:22:53.152730   861 simulater.cc:223] line_pts :19
+I20240525 13:22:53.152734   861 simulater.cc:222] ctrl_pts: 13
+I20240525 13:22:53.152745   861 simulater.cc:223] line_pts :61
+I20240525 13:22:53.152748   861 simulater.cc:222] ctrl_pts: 13
+I20240525 13:22:53.152755   861 simulater.cc:223] line_pts :61
+I20240525 13:22:53.152758   861 simulater.cc:91] map size: 5
+I20240525 13:22:53.152760   861 simulater.cc:92] End Frame index==========
+I20240525 13:22:53.152768   861 simulater.cc:65] =========================== Frame index: 3
+I20240525 13:22:53.152786   861 simulater.cc:104] lanes_from_map_.size: 5
+I20240525 13:22:53.153029   861 simulater.cc:107] cur_frame_lanes_.size: 3
+I20240525 13:22:53.154817   861 simulater.cc:75] match res: 0 , 2
+I20240525 13:22:53.154824   861 simulater.cc:75] match res: 1 , 1
+I20240525 13:22:53.154827   861 simulater.cc:75] match res: 2 , 0
+I20240525 13:22:53.154829   861 simulater.cc:238] UpdatingMapLanes
+I20240525 13:22:53.155771   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155779   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155786   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155788   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155793   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155795   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155800   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155803   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155808   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155812   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155817   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155819   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155824   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155826   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155833   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155834   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155840   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155843   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155848   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155850   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155855   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155858   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155864   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155866   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155871   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155874   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155879   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155882   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155887   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155889   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155895   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155897   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155903   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155905   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155911   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155913   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155920   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155921   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155927   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155929   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.155936   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.155937   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.157941   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.157946   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.157951   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.157954   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.157959   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.157961   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.157966   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.157969   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.157974   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.157977   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.157982   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.157985   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.157990   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.157992   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160116   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160120   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160125   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160127   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160133   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160135   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160141   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160143   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160148   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160151   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160156   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160159   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160169   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160172   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160177   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160179   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160184   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160187   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160192   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160194   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160199   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160202   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160207   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160209   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160214   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.160216   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160919   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.160923   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.160928   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.160930   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.161115   861 optimizer.cc:65] set the initial value successed!!!
+I20240525 13:22:53.161121   861 optimizer.cc:120] errot key index: 0-1-2-3
+I20240525 13:22:53.161178   861 optimizer.cc:120] errot key index: 14-15-16-17
+I20240525 13:22:53.161237   861 optimizer.cc:120] errot key index: 29-30-31-32
+I20240525 13:22:53.161305   861 optimizer.cc:76] complish the graph building
+I20240525 13:22:53.166501   861 optimizer.cc:83] result's error: 0.338055
+I20240525 13:22:53.168392   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.168396   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.168401   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.168404   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.168408   861 simulater.cc:222] ctrl_pts: 7
+I20240525 13:22:53.168411   861 simulater.cc:223] line_pts :25
+I20240525 13:22:53.168426   861 simulater.cc:91] map size: 5
+I20240525 13:22:53.168428   861 simulater.cc:92] End Frame index==========
+I20240525 13:22:53.168437   861 simulater.cc:65] =========================== Frame index: 4
+I20240525 13:22:53.168453   861 simulater.cc:104] lanes_from_map_.size: 5
+I20240525 13:22:53.168678   861 simulater.cc:107] cur_frame_lanes_.size: 3
+I20240525 13:22:53.170449   861 simulater.cc:75] match res: 0 , 2
+I20240525 13:22:53.170460   861 simulater.cc:75] match res: 1 , 3
+I20240525 13:22:53.170462   861 simulater.cc:75] match res: 2 , 0
+I20240525 13:22:53.170465   861 simulater.cc:238] UpdatingMapLanes
+I20240525 13:22:53.171501   861 ctrl_points.cc:334] get the paramenters failed!!!
+I20240525 13:22:53.171509   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171527   861 ctrl_points.cc:334] get the paramenters failed!!!
+I20240525 13:22:53.171530   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171550   861 ctrl_points.cc:334] get the paramenters failed!!!
+I20240525 13:22:53.171552   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171571   861 ctrl_points.cc:334] get the paramenters failed!!!
+I20240525 13:22:53.171574   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171579   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171582   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171587   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171590   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171595   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171597   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171603   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171605   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171610   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171613   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171618   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171622   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171626   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171629   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171634   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171638   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171643   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171645   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171650   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171653   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171658   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171661   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171666   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.171669   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.171845   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.171849   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.172191   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.172194   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.172537   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.172542   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.172890   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.172896   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.173240   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.173244   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.173586   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.173590   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.173596   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.173599   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.173604   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.173607   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.173648   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.173651   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.173656   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.173660   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.175410   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.175413   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.175418   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.175420   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.175426   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.175428   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.175433   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.175436   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.175604   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.175607   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.175940   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.175942   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.176112   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.176115   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.176120   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.176123   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.176128   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.176131   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.176136   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.176138   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.176143   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.176146   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.176306   861 optimizer.cc:65] set the initial value successed!!!
+I20240525 13:22:53.176312   861 optimizer.cc:120] errot key index: 4-5-6-7
+I20240525 13:22:53.176365   861 optimizer.cc:120] errot key index: 16-17-18-19
+I20240525 13:22:53.176414   861 optimizer.cc:120] errot key index: 29-30-31-32
+I20240525 13:22:53.176478   861 optimizer.cc:76] complish the graph building
+I20240525 13:22:53.180248   861 optimizer.cc:83] result's error: 0.524552
+I20240525 13:22:53.182173   861 simulater.cc:222] ctrl_pts: 16
+I20240525 13:22:53.182178   861 simulater.cc:223] line_pts :79
+I20240525 13:22:53.182183   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.182185   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.182188   861 simulater.cc:222] ctrl_pts: 7
+I20240525 13:22:53.182191   861 simulater.cc:223] line_pts :25
+I20240525 13:22:53.182193   861 simulater.cc:91] map size: 5
+I20240525 13:22:53.182196   861 simulater.cc:92] End Frame index==========
+I20240525 13:22:53.182204   861 simulater.cc:65] =========================== Frame index: 5
+I20240525 13:22:53.182224   861 simulater.cc:104] lanes_from_map_.size: 5
+I20240525 13:22:53.182489   861 simulater.cc:107] cur_frame_lanes_.size: 3
+I20240525 13:22:53.184592   861 simulater.cc:75] match res: 0 , 4
+I20240525 13:22:53.184595   861 simulater.cc:75] match res: 1 , 1
+I20240525 13:22:53.184598   861 simulater.cc:75] match res: 2 , 0
+I20240525 13:22:53.184602   861 simulater.cc:238] UpdatingMapLanes
+I20240525 13:22:53.185887   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185907   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185914   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185916   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185922   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185925   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185930   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185932   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185937   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185940   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185945   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185948   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185953   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185956   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185961   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185963   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185968   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185971   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185976   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185979   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185984   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185987   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185992   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.185994   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.185999   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.186002   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.186007   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.186010   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.186365   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.186368   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.186714   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.186718   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187058   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187062   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187398   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187402   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187556   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187559   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187731   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187734   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187884   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187888   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187893   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187896   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187901   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187904   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187911   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187913   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187918   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187922   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187927   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187929   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187934   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187937   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187942   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.187945   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187960   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.187963   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.187968   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.187971   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.188313   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.188315   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.188663   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.188666   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.189029   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.189035   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.189383   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.189388   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.189718   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.189723   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.189728   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.189729   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.189899   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.189903   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190057   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190061   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190397   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190399   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190405   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190407   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190413   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190415   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190420   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190423   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190429   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190431   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190438   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190439   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190444   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190447   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190452   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190455   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190460   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190464   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190469   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190471   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190476   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190479   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190485   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190487   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190492   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190505   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190510   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190512   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190517   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190521   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190526   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190528   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190533   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190536   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190541   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190544   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190549   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190552   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190557   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190560   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190565   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190567   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190573   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190575   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190580   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190583   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190588   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190591   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190596   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190599   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190604   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190606   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190613   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190614   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190619   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190622   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190627   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190630   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190635   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190639   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190644   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190645   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190651   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190654   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190658   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190661   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190666   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190670   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190675   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190677   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190682   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190685   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190690   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190692   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190697   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190701   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190706   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190708   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190713   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190716   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190721   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190723   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190729   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190732   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190737   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190739   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190744   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190747   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190752   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190755   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190760   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190762   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190768   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190770   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190775   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190778   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190783   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190786   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190791   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190793   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190799   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190801   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190806   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190809   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190814   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190817   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190822   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190824   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190830   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190832   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190837   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190840   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190845   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190848   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190853   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190856   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190861   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190863   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190869   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190871   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190876   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190879   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190891   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190893   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190898   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190901   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.190907   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.190908   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.191054   861 optimizer.cc:65] set the initial value successed!!!
+I20240525 13:22:53.191061   861 optimizer.cc:120] errot key index: 0-1-2-3
+I20240525 13:22:53.191115   861 optimizer.cc:120] errot key index: 14-15-16-17
+I20240525 13:22:53.191164   861 optimizer.cc:120] errot key index: 27-28-29-30
+I20240525 13:22:53.191226   861 optimizer.cc:76] complish the graph building
+I20240525 13:22:53.194826   861 optimizer.cc:83] result's error: 0.398515
+I20240525 13:22:53.197055   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.197060   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.197065   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.197067   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.197072   861 simulater.cc:222] ctrl_pts: 14
+I20240525 13:22:53.197074   861 simulater.cc:223] line_pts :67
+I20240525 13:22:53.197077   861 simulater.cc:91] map size: 5
+I20240525 13:22:53.197079   861 simulater.cc:92] End Frame index==========
+I20240525 13:22:53.197088   861 simulater.cc:65] =========================== Frame index: 6
+I20240525 13:22:53.197106   861 simulater.cc:104] lanes_from_map_.size: 5
+I20240525 13:22:53.197388   861 simulater.cc:107] cur_frame_lanes_.size: 3
+I20240525 13:22:53.199749   861 simulater.cc:75] match res: 0 , 2
+I20240525 13:22:53.199752   861 simulater.cc:75] match res: 1 , 1
+I20240525 13:22:53.199755   861 simulater.cc:75] match res: 2 , 0
+I20240525 13:22:53.199759   861 simulater.cc:238] UpdatingMapLanes
+I20240525 13:22:53.200805   861 ctrl_points.cc:334] get the paramenters failed!!!
+I20240525 13:22:53.200812   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200819   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200821   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200826   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200829   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200834   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200836   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200841   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200845   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200850   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200852   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200857   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200860   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200865   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200868   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200873   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200876   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200881   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200884   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200889   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200892   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200897   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200901   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200906   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200908   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.200913   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.200917   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.201076   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.201078   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.201252   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.201256   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.201411   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.201413   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.201586   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.201589   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.201741   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.201745   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.201916   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.201920   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202070   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202073   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202247   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202250   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202405   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202409   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202580   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202584   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202733   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202736   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202742   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202745   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202750   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202754   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202759   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202761   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202767   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202769   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202775   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202777   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202783   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202786   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202791   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.202795   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202811   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202813   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202818   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202821   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202826   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202829   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202834   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202836   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202842   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202844   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202849   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202852   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202857   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202872   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202878   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202880   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202885   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202888   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202893   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202896   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202901   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202903   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202909   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202911   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202917   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202919   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.202924   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.202927   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.203079   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.203083   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.203258   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.203260   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.203413   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.203415   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.203752   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.203755   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.204097   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.204102   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.204439   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.204443   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205017   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205020   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205358   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205360   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205365   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205368   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205374   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205376   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205381   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205384   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205389   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205392   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205397   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205400   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205405   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205408   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205413   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205415   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205421   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205423   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205428   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205431   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205436   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205439   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205444   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205447   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205452   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205454   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205459   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205462   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205467   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205471   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205475   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205478   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205483   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205487   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205492   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205493   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205499   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205502   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205507   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205509   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205514   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205518   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205523   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205525   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205530   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205533   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205538   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205541   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205546   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205549   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205554   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205556   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205561   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205564   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205569   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205572   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205577   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205580   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205585   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205587   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205593   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205595   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205600   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205603   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205608   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205611   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205616   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205619   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205624   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205642   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205647   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205650   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205655   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205657   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205662   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205665   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205670   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205673   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205678   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205682   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205686   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205688   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205694   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205696   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205701   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205704   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205709   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205713   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205718   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205720   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205725   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205729   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205734   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205736   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205741   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205744   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205749   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205751   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205756   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205760   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205765   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205767   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205772   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205775   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205780   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205782   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205788   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205790   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205796   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205798   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205803   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205806   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205811   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205814   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205819   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205821   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205827   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205829   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205834   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205837   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205842   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205845   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205850   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205853   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205858   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205860   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205866   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205868   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205873   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205876   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.205881   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.205884   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.206032   861 optimizer.cc:65] set the initial value successed!!!
+I20240525 13:22:53.206037   861 optimizer.cc:120] errot key index: 0-1-2-3
+I20240525 13:22:53.206089   861 optimizer.cc:120] errot key index: 14-15-16-17
+I20240525 13:22:53.206136   861 optimizer.cc:120] errot key index: 28-29-30-31
+I20240525 13:22:53.206199   861 optimizer.cc:76] complish the graph building
+I20240525 13:22:53.209450   861 optimizer.cc:83] result's error: 0.332965
+I20240525 13:22:53.211751   861 simulater.cc:222] ctrl_pts: 17
+I20240525 13:22:53.211756   861 simulater.cc:223] line_pts :85
+I20240525 13:22:53.211761   861 simulater.cc:222] ctrl_pts: 17
+I20240525 13:22:53.211764   861 simulater.cc:223] line_pts :85
+I20240525 13:22:53.211768   861 simulater.cc:222] ctrl_pts: 14
+I20240525 13:22:53.211771   861 simulater.cc:223] line_pts :67
+I20240525 13:22:53.211773   861 simulater.cc:91] map size: 5
+I20240525 13:22:53.211776   861 simulater.cc:92] End Frame index==========
+I20240525 13:22:53.211783   861 simulater.cc:65] =========================== Frame index: 7
+I20240525 13:22:53.211802   861 simulater.cc:104] lanes_from_map_.size: 5
+I20240525 13:22:53.212038   861 simulater.cc:107] cur_frame_lanes_.size: 3
+I20240525 13:22:53.214087   861 simulater.cc:75] match res: 0 , 4
+I20240525 13:22:53.214092   861 simulater.cc:75] match res: 1 , 3
+I20240525 13:22:53.214093   861 simulater.cc:75] match res: 2 , 0
+I20240525 13:22:53.214097   861 simulater.cc:238] UpdatingMapLanes
+I20240525 13:22:53.215119   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.215126   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215131   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.215134   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215139   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.215142   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215147   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.215149   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215154   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.215157   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215162   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.215164   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215169   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.215171   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215176   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.215179   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215184   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.215186   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215377   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.215381   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215530   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.215533   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215703   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.215706   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.215854   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.215857   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.216024   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.216027   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.216171   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.216174   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.216500   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.216503   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.216843   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.216847   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217013   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217016   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217022   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217024   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217029   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217032   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217037   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217039   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217046   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217047   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217052   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217056   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217060   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217063   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217068   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217070   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217077   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217078   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217083   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217087   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217092   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217094   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217099   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217101   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217118   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.217120   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217128   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.217129   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217134   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.217137   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217141   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.217144   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217149   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.217151   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217156   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.217159   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217164   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.217166   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217172   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.217175   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217180   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.217182   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217509   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217512   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.217839   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.217841   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.218175   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.218178   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.218504   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.218508   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.218834   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.218837   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.218971   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.218973   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.218978   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.218981   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.218986   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.218988   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.218993   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.218997   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219002   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219003   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219008   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219012   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219017   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219018   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219023   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219026   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219031   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219033   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219038   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219041   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219046   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219048   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219053   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219056   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219061   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219063   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219069   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219071   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219075   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219079   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219084   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219092   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219097   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219100   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219105   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219107   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219112   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219115   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219120   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219122   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219127   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219130   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219135   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219137   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219142   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219146   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219151   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219152   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219157   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219159   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219164   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219167   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219172   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219174   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219179   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219182   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219187   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219189   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219194   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219197   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219202   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219204   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219209   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219213   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219218   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219219   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219224   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219228   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219233   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219236   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219241   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219244   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219249   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219251   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219256   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219259   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219264   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219266   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219271   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219273   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219278   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219281   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219286   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219288   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219293   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219296   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219301   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219303   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219308   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219311   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219316   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219318   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219323   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219326   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219331   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219333   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219338   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219341   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219345   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219348   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219353   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219355   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219360   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219363   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219368   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219370   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219375   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219378   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219383   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219385   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219390   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219393   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219398   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.219400   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.219529   861 optimizer.cc:65] set the initial value successed!!!
+I20240525 13:22:53.219534   861 optimizer.cc:120] errot key index: 0-1-2-3
+I20240525 13:22:53.219584   861 optimizer.cc:120] errot key index: 14-15-16-17
+I20240525 13:22:53.219666   861 optimizer.cc:76] complish the graph building
+I20240525 13:22:53.222550   861 optimizer.cc:83] result's error: 0.236431
+I20240525 13:22:53.224907   861 simulater.cc:222] ctrl_pts: 16
+I20240525 13:22:53.224913   861 simulater.cc:223] line_pts :79
+I20240525 13:22:53.224918   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.224921   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.224925   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.224927   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.224931   861 simulater.cc:91] map size: 5
+I20240525 13:22:53.224933   861 simulater.cc:92] End Frame index==========
+I20240525 13:22:53.224942   861 simulater.cc:65] =========================== Frame index: 8
+I20240525 13:22:53.224964   861 simulater.cc:104] lanes_from_map_.size: 5
+I20240525 13:22:53.225203   861 simulater.cc:107] cur_frame_lanes_.size: 3
+I20240525 13:22:53.227288   861 simulater.cc:75] match res: 0 , 4
+I20240525 13:22:53.227291   861 simulater.cc:75] match res: 1 , 3
+I20240525 13:22:53.227294   861 simulater.cc:75] match res: 2 , 0
+I20240525 13:22:53.227296   861 simulater.cc:238] UpdatingMapLanes
+I20240525 13:22:53.228150   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.228156   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.228163   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.228164   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.228169   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.228173   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.228178   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.228179   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.228184   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.228188   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.228192   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.228194   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.228199   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.228202   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.228363   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.228365   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.228535   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.228538   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.228688   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.228691   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.228866   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.228869   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.229028   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.229032   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.229198   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.229202   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.229346   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.229349   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.229514   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.229517   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.229665   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.229668   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.229835   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.229837   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.229979   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.229982   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.229987   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.229990   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.229995   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.229998   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230003   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230005   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230010   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230013   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230018   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230021   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230026   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230028   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230034   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230036   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230041   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230044   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230049   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230051   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230057   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230059   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230064   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230067   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230072   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230075   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230080   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230082   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230088   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230090   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230106   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.230109   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230114   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.230116   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230121   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.230124   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230129   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.230131   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230137   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.230139   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230144   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.230147   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230312   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230314   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230643   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230645   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.230970   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.230973   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.231303   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.231307   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.231631   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.231634   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.231962   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.231966   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.231977   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.231979   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.231985   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.231987   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.231992   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.231995   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232000   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232003   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232015   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232018   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232023   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232026   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232031   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232033   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232039   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232041   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232046   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232049   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232054   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232056   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232062   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232064   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232069   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232072   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232077   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232079   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232085   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232087   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232092   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232095   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232100   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232102   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232107   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232110   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232115   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232118   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232123   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232125   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232131   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232133   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232138   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232141   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232146   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232148   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232153   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232156   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232161   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232164   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232169   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232172   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232177   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232179   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232184   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232187   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232192   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232194   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232199   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232203   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232208   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232209   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232215   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232218   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232223   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232225   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232230   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232232   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232237   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232240   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232245   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232249   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232254   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232255   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232260   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232263   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232268   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232271   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232276   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232278   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232283   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232286   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232291   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232295   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232299   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232301   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232306   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232309   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232314   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232316   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232322   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232324   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232329   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232332   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232337   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232339   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232347   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232348   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232353   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232357   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232362   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232364   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232369   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232371   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232376   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232379   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232384   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232393   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232398   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232400   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232405   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232407   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232412   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232415   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232420   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.232424   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.232544   861 optimizer.cc:65] set the initial value successed!!!
+I20240525 13:22:53.232556   861 optimizer.cc:120] errot key index: 0-1-2-3
+I20240525 13:22:53.232605   861 optimizer.cc:120] errot key index: 14-15-16-17
+I20240525 13:22:53.232688   861 optimizer.cc:76] complish the graph building
+I20240525 13:22:53.235502   861 optimizer.cc:83] result's error: 0.284182
+I20240525 13:22:53.237890   861 simulater.cc:222] ctrl_pts: 16
+I20240525 13:22:53.237895   861 simulater.cc:223] line_pts :79
+I20240525 13:22:53.237900   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.237902   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.237906   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.237910   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.237911   861 simulater.cc:91] map size: 5
+I20240525 13:22:53.237915   861 simulater.cc:92] End Frame index==========
+I20240525 13:22:53.237922   861 simulater.cc:65] =========================== Frame index: 9
+I20240525 13:22:53.237942   861 simulater.cc:104] lanes_from_map_.size: 5
+I20240525 13:22:53.238211   861 simulater.cc:107] cur_frame_lanes_.size: 3
+I20240525 13:22:53.240402   861 simulater.cc:75] match res: 0 , 4
+I20240525 13:22:53.240411   861 simulater.cc:75] match res: 1 , 3
+I20240525 13:22:53.240414   861 simulater.cc:75] match res: 2 , 0
+I20240525 13:22:53.240417   861 simulater.cc:238] UpdatingMapLanes
+I20240525 13:22:53.241314   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.241320   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.241326   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.241329   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.241334   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.241338   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.241343   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.241345   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.241537   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.241541   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.241892   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.241895   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.242244   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.242247   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.242595   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.242599   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.242949   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.242951   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243292   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243295   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243301   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243304   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243309   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243312   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243317   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243320   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243326   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243328   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243335   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243336   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243342   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243345   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243350   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243353   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243358   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243361   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243367   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243369   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243376   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243378   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243383   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243386   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243391   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243394   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243400   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243402   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243408   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243410   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243417   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243419   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243424   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243427   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243443   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.243446   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243453   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.243454   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243460   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.243463   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243468   861 ctrl_points.cc:321] idx is unreliable!!!
+I20240525 13:22:53.243470   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243816   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243819   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.243974   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.243978   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.244151   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.244155   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.244310   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.244313   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.244493   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.244495   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.244650   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.244653   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.244832   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.244848   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245002   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245007   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245182   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245185   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245340   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245343   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245398   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245401   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245407   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245409   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245415   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245417   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245424   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245425   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245431   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245433   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245440   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245441   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245447   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245450   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245455   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245457   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245462   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245465   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245471   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245473   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245478   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245481   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245486   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245489   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245494   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245497   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245502   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245505   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245510   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245512   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245518   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245520   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245527   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245528   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245534   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245536   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245541   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245544   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245549   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245553   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245558   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245560   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245565   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245568   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245573   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245576   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245581   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245584   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245589   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245592   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245597   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245600   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245605   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245607   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245613   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245615   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245621   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245623   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245630   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245631   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245636   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245640   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245644   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245647   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245652   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245656   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245661   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245663   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245668   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245671   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245676   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245679   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245684   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245687   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245692   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245694   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245700   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245702   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245708   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245710   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245716   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245718   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245723   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245726   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245731   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245734   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245739   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245743   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245747   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245750   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245761   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245764   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245769   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245772   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245777   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245780   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245785   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245787   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245793   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245795   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245801   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245803   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245810   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245811   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245816   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245819   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245824   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245827   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245832   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245836   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245841   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245843   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245848   861 ctrl_points.cc:328] ctrlpoints is chosing unreliable!!!
+I20240525 13:22:53.245851   861 simulater.cc:169] cannot get the query points!!!
+I20240525 13:22:53.245985   861 optimizer.cc:65] set the initial value successed!!!
+I20240525 13:22:53.245990   861 optimizer.cc:120] errot key index: 0-1-2-3
+I20240525 13:22:53.246043   861 optimizer.cc:120] errot key index: 14-15-16-17
+I20240525 13:22:53.246129   861 optimizer.cc:76] complish the graph building
+I20240525 13:22:53.249118   861 optimizer.cc:83] result's error: 0.359273
+I20240525 13:22:53.251521   861 simulater.cc:222] ctrl_pts: 16
+I20240525 13:22:53.251525   861 simulater.cc:223] line_pts :79
+I20240525 13:22:53.251530   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.251533   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.251538   861 simulater.cc:222] ctrl_pts: 15
+I20240525 13:22:53.251540   861 simulater.cc:223] line_pts :73
+I20240525 13:22:53.251542   861 simulater.cc:91] map size: 5
+I20240525 13:22:53.251545   861 simulater.cc:92] End Frame index==========
